@@ -1,0 +1,6 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
+scikit-image>=0.21
+matplotlib>=3.7
+jupyter>=1.0
